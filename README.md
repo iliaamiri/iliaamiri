@@ -41,7 +41,7 @@ public class TechAndSkills
 ---
 ## <img src="assets/peeposalute.gif" height="25"> Stats
 
-[![Ilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliaamiri&count_private=true&hide=issues,contribs&theme=tokyonight#gh-dark-mode-only)](https://github.com/iliaamiri/github-readme-stats)
+[![Ilia's GitHub stats](https://iliaamiri-github-readme-stats.vercel.app/api?username=iliaamiri&count_private=true&hide=issues,contribs&theme=tokyonight#gh-dark-mode-only)](https://github.com/iliaamiri/github-readme-stats)
 
 ---
 ## <img src="assets/catBlush.webp" height="35"> Reach Out to Me

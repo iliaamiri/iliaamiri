@@ -9,7 +9,7 @@ I like solving complex problems and building new things at an enterprise degree.
 
 <img src="assets/blushHug.webp" height="36">
 
-As a teammember, I pay attention to the details, maintain a healthy team workflow, give space to my teammates grow, and enjoy working with chill and people who know more than me.
+As a teammember, I pay attention to the details, maintain a healthy team workflow, give space to my teammates to grow, enjoy working with chill folks, and people who know more than me.
 
 ---
 

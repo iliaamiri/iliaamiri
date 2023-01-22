@@ -11,11 +11,7 @@ I like solving complex problems and building new things at an enterprise degree.
 
 As a teammember, I pay attention to the details, maintain a healthy team workflow, give space to my teammates grow, and enjoy working with chill and people who know more than me.
 
-<br/>
-
 ---
-
-<br />
 
 ## <img src="assets/NOTED.webp" height="30"> Technologies
 
@@ -42,22 +38,12 @@ public class TechAndSkills
 }
 ```
 
-<br />
-
 ---
-
-<br />
-
 ## <img src="assets/peeposalute.gif" height="25"> Stats
 
 [![Ilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliaamiri&count_private=true&hide=issues,contribs&theme=tokyonight#gh-dark-mode-only)](https://github.com/iliaamiri/github-readme-stats)
 
-<br />
-
 ---
-
-<br />
-
 ## <img src="assets/catBlush.webp" height="35"> Reach Out to Me
 
 <a href="mailto:iliaabedianamiri@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)

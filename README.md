@@ -1,7 +1,7 @@
 
 <h1 align="center"><img src="assets/blanketJam.webp" width="35"> Hello , I'm E<b>ili</b>y<b>a</b> Abedianamiri</h1>
 
-Passionate self-driven full-stack web developer with a focus on **Back-End**. I enjoy working in a team as much as I like to work solo on personal projects. 
+An enthusiastic self-driven full-stack web developer with a focus in **Back-End**. I enjoy both working in teams and collaborating on personal projects.
 
 <!-- <img src="assets/peepoBlushGlizzy.webp" height="25"> -->
 

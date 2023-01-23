@@ -3,11 +3,11 @@
 
 Passionate self-driven full-stack web developer with a focus on **Back-End**. I enjoy working in a team as much as I like to work solo on personal projects. 
 
-<img src="assets/peepoBlushGlizzy.webp" height="25">
+<!-- <img src="assets/peepoBlushGlizzy.webp" height="25"> -->
 
 I like solving complex problems and building new things at an enterprise degree. I like arguing about **scalability**, foreseeing problems and preventing them, trying **new approaches**, writing **clean code**, **pair programming**, mentoring, and consulting. 
 
-<img src="assets/blushHug.webp" height="36">
+<!-- <img src="assets/blushHug.webp" height="36"> -->
 
 As a teammember, I pay attention to the details, maintain a healthy team workflow, give space to my teammates to grow, enjoy working with chill folks, and people who know more than me.
 

@@ -35,7 +35,11 @@ public class TechAndSkills
     public HashSet<string> FrontEnd = new () {
         "JavaScript", "Next.js", "React Native", "Tailwind CSS", "WPF","Bootstrap", "HTML", "CSS"
     };
-}
+
+    public HasSet<string> ToolsAndTechnologies = new () {
+        "API", "REST", "GraphQL", "Apollo"
+    };
+ }
 ```
 
 <!-- --- -->

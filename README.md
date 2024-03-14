@@ -50,7 +50,6 @@ public class TechAndSkills
 ---
 ## <img src="assets/catBlush.webp" height="35"> Reach Out to Me
 
-<a href="https://twitter.com/iliaaamiri">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/eiliya-abedianamiri/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:iliaabedianamiri@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </a>

@@ -29,19 +29,23 @@ public class TechAndSkills
     };
 
     public HashSet<string> Databases = new () {
-        "PostgreSQL", "MySQL", "SQL Server", "Neo4j", "SQLite", "Redis", "MongoDB",
+        "PostgreSQL", "MySQL", "SQL Server", "Neo4j", "SQLite", "Redis", "MongoDB", // etc.
     };
 
     public HashSet<string> FrontEnd = new () {
-        "Next.js", "Vue.js", "React", "React Native", "Tailwind CSS", "Bootstrap 5", "jQuery", "WPF",
+        "Next.js", "Vue.js", "React", "React Native", "Tailwind CSS", "Bootstrap 5", "jQuery", "WPF", // etc.
+    };
+
+    public HasSet<string> DevOps = new () {
+        "Git", "CI/CD", "AWS", "Cloudfront", "Azure", "cPanel", // etc.
     };
 
     public HasSet<string> ToolsAndTechnologies = new () {
-        "API", "REST", "GraphQL", "Apollo",
+        "API", "REST", "GraphQL", "Apollo", "Jira", "Trello", // etc.
     };
 
     public HashSet<string> Architectures = new () {
-        "Event-driven", "MVC", "P2P", "MVVM", "Microservices", "Docker"
+        "Event-driven", "MVC", "P2P", "MVVM", "Microservices", "Docker" // etc.
     };
  }
 ```

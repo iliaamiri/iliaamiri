@@ -20,12 +20,12 @@ namespace IliaAbedianamiri;
 
 public class TechAndSkills
 {
-    public HashSet<string> BackEnd = new () {
-        "TypeScript", "C#", "Node.js", "NestJs", ".NET Core", "PHP", "Laravel", "Flask", "Python"
+    public HashSet<string> ProgrammingLanguages = new () {
+        "TypeScript", "C#", "PHP", "Python", "Rust", "C++"
     };
 
-    public HashSet<string> Architectures = new () {
-        "Event-driven", "MVC", "P2P", "MVVM", "Microservices", "Docker"
+    public HashSet<string> BackEnd = new () {
+        "Node.js", "NestJs", "Hono", "Express.js", ".NET", "Laravel", "Flask"
     };
 
     public HashSet<string> Databases = new () {
@@ -38,6 +38,10 @@ public class TechAndSkills
 
     public HasSet<string> ToolsAndTechnologies = new () {
         "API", "REST", "GraphQL", "Apollo"
+    };
+
+    public HashSet<string> Architectures = new () {
+        "Event-driven", "MVC", "P2P", "MVVM", "Microservices", "Docker"
     };
  }
 ```

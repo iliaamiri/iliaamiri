@@ -21,23 +21,23 @@ namespace EiliyaAbedianamiri;
 public class TechAndSkills
 {
     public HashSet<string> ProgrammingLanguages = new () {
-        "TypeScript", "C#", "PHP", "Python", "Rust", "C++"
+        "TypeScript", "C#", "PHP", "Python", "Rust", "C++", "Bash", "HTML", "CSS",
     };
 
     public HashSet<string> BackEnd = new () {
-        "Node.js", "NestJs", "Hono", "Express.js", ".NET", "Laravel", "Flask"
+        "Node.js", "NestJs", "Hono", "Express.js", ".NET", "Laravel", "Flask",
     };
 
     public HashSet<string> Databases = new () {
-        "MySQL", "Microsoft Sql Server", "Neo4j", "PostgreSQL", "SQLite", "Redis", "MongoDB", "CockroachDB"
+        "PostgreSQL", "MySQL", "SQL Server", "Neo4j", "SQLite", "Redis", "MongoDB",
     };
 
     public HashSet<string> FrontEnd = new () {
-        "JavaScript", "Next.js", "React Native", "Tailwind CSS", "WPF","Bootstrap", "HTML", "CSS"
+        "Next.js", "Vue.js", "React", "React Native", "Tailwind CSS", "Bootstrap 5", "jQuery", "WPF",
     };
 
     public HasSet<string> ToolsAndTechnologies = new () {
-        "API", "REST", "GraphQL", "Apollo"
+        "API", "REST", "GraphQL", "Apollo",
     };
 
     public HashSet<string> Architectures = new () {

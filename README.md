@@ -13,7 +13,7 @@ As a teammember, I pay attention to the details, maintain a healthy team workflo
 
 ---
 
-## <img src="assets/NOTED.webp" height="30"> Technologies
+## <img src="assets/NOTED.webp" height="30"> Skills & Technologies
 
 ```c#
 namespace IliaAbedianamiri;

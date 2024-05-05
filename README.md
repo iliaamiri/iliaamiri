@@ -5,7 +5,7 @@ An enthusiastic self-driven full-stack web developer with a focus in **Back-End*
 
 <!-- <img src="assets/peepoBlushGlizzy.webp" height="25"> -->
 
-I like solving complex problems and building new things at an enterprise degree. I like arguing about **scalability**, foreseeing problems and preventing them, trying **new approaches**, writing **clean code**, **pair programming**, mentoring, and consulting. 
+I like solving complex problems and building new things at an enterprise degree. I like arguing about **scalability**, foreseeing problems and preventing them, trying **new approaches**, **pair programming**, mentoring, and consulting. 
 
 <!-- <img src="assets/blushHug.webp" height="36"> -->
 

@@ -21,11 +21,11 @@ namespace EiliyaAbedianamiri;
 public class TechAndSkills
 {
     public HashSet<string> ProgrammingLanguages = new () {
-        "TypeScript", "C#", "PHP", "Python", "Rust", "C++", "Bash", "HTML", "CSS",
+        "TypeScript", "C#", "PHP", "Python", "Rust", "C++", "Bash", "HTML", "CSS", "Elixir",
     };
 
     public HashSet<string> BackEnd = new () {
-        "Node.js", "NestJs", "Hono", "Express.js", ".NET", "Laravel", "Flask",
+        "Node.js", "NestJs", "Hono", "Express.js", ".NET", "Laravel", "Flask", "Phoenix",
     };
 
     public HashSet<string> Databases = new () {

@@ -41,7 +41,7 @@ public class TechAndSkills
     };
 
     public HasSet<string> ToolsAndTechnologies = new () {
-        "API", "REST", "GraphQL", "Apollo", "Jira", "Trello", // etc.
+        "AWS", "API", "REST", "GraphQL", "Apollo", "Jira", "Trello", // etc.
     };
 
     public HashSet<string> Architectures = new () {

@@ -1,5 +1,5 @@
 
-<h1>whoami</h1>
+<h1>whoami && cat /etc/os-release</h1>
 
 Driven full-stack developer with a focus in back-end and a passion for cybersecurity.
 

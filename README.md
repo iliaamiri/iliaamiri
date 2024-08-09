@@ -15,7 +15,7 @@ Pays attention to detail, maintains a healthy team workflow, gives space to his 
 
 ---
 
-## <img src="assets/NOTED.webp" height="30"> Buzz words
+## <img src="assets/NOTED.webp" height="30"> Buzzwords
 
 ```c#
 namespace EiliyaAbedianamiri;

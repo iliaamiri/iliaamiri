@@ -15,7 +15,7 @@ Pays attention to detail, maintains a healthy team workflow, gives space to his 
 
 ---
 
-## <img src="assets/NOTED.webp" height="30"> Buzzwords
+## Skills
 
 ```c#
 namespace EiliyaAbedianamiri;
@@ -58,7 +58,7 @@ public class TechAndSkills
 [![Ilia's GitHub stats](https://iliaamiri-github-readme-stats.vercel.app/api?username=iliaamiri&count_private=true&hide=issues,contribs&theme=tokyonight#gh-dark-mode-only)](https://github.com/iliaamiri/github-readme-stats) -->
 
 ---
-## <img src="assets/catBlush.webp" height="35"> Reach
+## Reach
 
 <a href="https://www.linkedin.com/in/eiliya-abedianamiri/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:iliaabedianamiri@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)

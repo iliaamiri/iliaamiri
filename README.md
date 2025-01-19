@@ -23,7 +23,7 @@ namespace EiliyaAbedianamiri;
 public class TechAndSkills
 {
     public HashSet<string> ProgrammingLanguages = new () {
-        "TypeScript", "C#", "PHP", "Python", "Rust", "C++", "Bash", "HTML", "CSS", "Elixir",
+        "TypeScript", "C#", "Java", "PHP", "Python", "Rust", "C++", "Bash", "HTML", "CSS", "Elixir",
     };
 
     public HashSet<string> BackEnd = new () {

@@ -47,11 +47,19 @@ public class TechAndSkills
     };
 
     public HashSet<string> Architectures = new () {
-        "Event-driven", "MVC", "P2P", "MVVM", "Microservices", "Docker" // etc.
+        "Event-driven", "MVC", "P2P", "MVVM", "Microservices", "Virtual Machines", "Docker", "Kubernetes", "VPS" // etc.
     };
 
     public HashSet<string> Methodologies = new () {
         "Clean Code", "Agile", "Scrum", "Waterfall", "SOLID Principles", "Design Patterns"
+    };
+
+    public HashSet<string> OperationSystems = new () {
+        "Ubuntu", "Windows", "MacOS", "CentOS", "Kali Linux", "Manjaro"
+    };
+
+    public HashSet<string> RandomComputerSkills = new () {
+        "Assembling PCs", "Installing Windows/Linux", "Microsoft360 Suits", "Setup VPN servers", "Prompt Engineering"
     };
 
     public HashSet<string> SoftSkills = new () {

@@ -23,7 +23,8 @@ namespace EiliyaAbedianamiri;
 public class TechAndSkills
 {
     public HashSet<string> ProgrammingLanguages = new () {
-        "TypeScript", "C#", "Java", "PHP", "Python", "Rust", "C++", "Bash", "HTML", "CSS", "Elixir",
+        // Ordered by most usages
+        "TypeScript", "C#", "PHP", "Python", "Java", "Rust", "C++", "Bash", "Elixir", "C", "C++"
     };
 
     public HashSet<string> BackEnd = new () {
@@ -35,7 +36,10 @@ public class TechAndSkills
     };
 
     public HashSet<string> FrontEnd = new () {
-        "Next.js", "Vue.js", "React", "React Native", "Angular", "Tailwind CSS", "Bootstrap 5", "jQuery", "WPF", // etc.
+        // Ordered by least complexity
+        "HTML", "CSS", "CSS Animations", "Tailwind CSS", "Bootstrap 5"
+        "Browser APIs", "jQuery", "React", "React Native", "Vue", "Angular",
+        "TanStack Router", "TanStack Query", "Next.js", "WPF",
     };
 
     public HasSet<string> DevOps = new () {

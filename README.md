@@ -31,15 +31,15 @@ public class TechAndSkills
     };
 
     public HashSet<string> Databases = new () {
-        "PostgreSQL", "MySQL", "SQL Server", "Neo4j", "SQLite", "Redis", "MongoDB", // etc.
+        "PostgreSQL", "SQL Server", "MySQL", "Neo4j", "SQLite", "Redis", "MongoDB", "Cassandra" // etc.
     };
 
     public HashSet<string> FrontEnd = new () {
-        "Next.js", "Vue.js", "React", "React Native", "Tailwind CSS", "Bootstrap 5", "jQuery", "WPF", // etc.
+        "Next.js", "Vue.js", "React", "React Native", "Angular", "Tailwind CSS", "Bootstrap 5", "jQuery", "WPF", // etc.
     };
 
     public HasSet<string> DevOps = new () {
-        "Git", "CI/CD", "AWS", "Cloudfront", "Azure", "cPanel", // etc.
+        "Git", "GitHub Actions", "CI/CD", "AWS", "Cloudfront", "Azure", "IaC frameworks", "SST", "Terraform", "cPanel", // etc.
     };
 
     public HasSet<string> ToolsAndTechnologies = new () {
@@ -48,6 +48,10 @@ public class TechAndSkills
 
     public HashSet<string> Architectures = new () {
         "Event-driven", "MVC", "P2P", "MVVM", "Microservices", "Docker" // etc.
+    };
+
+    public HashSet<string> SoftSkills = new () {
+        "Communication", "Collaboration", "Adaptability", "Curiosity", "Professionalism", "Work ethic", "Transparency", "Leadership"
     };
  }
 ```

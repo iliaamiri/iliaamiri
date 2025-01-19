@@ -50,6 +50,10 @@ public class TechAndSkills
         "Event-driven", "MVC", "P2P", "MVVM", "Microservices", "Docker" // etc.
     };
 
+    public HashSet<string> Methodologies = new () {
+        "Clean Code", "Agile", "Scrum", "Waterfall", "SOLID Principles", "Design Patterns"
+    };
+
     public HashSet<string> SoftSkills = new () {
         "Communication", "Collaboration", "Adaptability", "Curiosity", "Professionalism", "Work ethic", "Transparency", "Leadership"
     };

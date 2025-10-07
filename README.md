@@ -24,7 +24,7 @@ public class TechAndSkills
 {
     public HashSet<string> ProgrammingLanguages = new () {
         // Ordered by most usages
-        "TypeScript", "C#", "PHP", "Python", "Java", "Rust", "C++", "Bash", "Elixir", "C", "C++"
+        "TypeScript", "C#", "PHP", "Python", "Java", "Rust", "Bash", "Elixir", "C", "C++"
     };
 
     public HashSet<string> BackEnd = new () {
